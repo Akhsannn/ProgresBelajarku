@@ -9,9 +9,9 @@ Belajar kelas Dasar Git dengan Github. (Progres 100%)
 * Belajar fitur-fitur yang ada pada Github.
 * Belajar menggunakan Git Branches.
 * Belajar kolaborasi dengan tim menggunakan Github.
-* Belajar membuat portofolio menggunakan Github.
+* Belajar membuat portofolio menggunakan Github.  
 
-  **15 Juni 2021**
+  **15 Juni 2021**  
   
 Belajar kelas X di Coursera. (Progres 25%)
   * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
